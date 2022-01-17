@@ -1,0 +1,29 @@
+{
+  "name": "40kdb",
+  "version": "0.0.0",
+  "description": "A warhammer40k database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Sergio Gonzalez Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.1",
+    "cloudinary": "^1.28.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.6",
+    "multer": "^1.4.4",
+    "multer-storage-cloudinary": "^4.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^12.0.3",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}

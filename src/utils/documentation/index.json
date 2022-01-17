@@ -1,0 +1,117 @@
+{
+"Battles": [
+    {
+
+        "_id": "61e454e40250517270164e16",
+        "name": "Battle of Isstvan V",
+        "year": "M31",
+        "place": "Segmentum Obscurus/Subsector: Unknown/System: Istvaan/Planet: Istvaan V",
+        "traitorlegions": [
+            {
+                "_id": "61e44a6521f6ace999c1f075",
+                "name": "Emperor's Children",
+                "description": "The perfect Legion",
+                "number": "III",
+                "primarch": "Fulgrim",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350750/40k/hijosdelemperador_emj1o5.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "61e44a6521f6ace999c1f076",
+                "name": "Iron Warriors",
+                "description": "The best siegers",
+                "number": "IV",
+                "primarch": "Perturabo",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350745/40k/guerrerosdehierro_hlhzrf.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "61e44a6521f6ace999c1f07a",
+                "name": "Night Lords",
+                "description": "Haunters of the dark",
+                "number": "VIII",
+                "primarch": "Konrad Curze",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350775/40k/nightlords_lyagrp.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "61e44a6521f6ace999c1f07e",
+                "name": "World Eaters",
+                "description": "The most barbaric slashers, blood for the Primarch",
+                "number": "XII",
+                "primarch": "Angron",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350733/40k/devoradoresdemundos_ccmf9z.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "61e44a6521f6ace999c1f080",
+                "name": "Death Guard",
+                "description": "Known as the Dusk Raiders, the best fighters in the worst situations",
+                "number": "XIV",
+                "primarch": "Mortarion",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350729/40k/deathguard_vwscut.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "61e44a6521f6ace999c1f082",
+                "name": "Luna Wolves",
+                "description": "Renamed as the Sons of Horus, and the Black Legion after the Horus Heresy",
+                "number": "XVI",
+                "primarch": "Horus Lupercal",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350763/40k/lunawolves_xfjb8m.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "61e44a6521f6ace999c1f083",
+                "name": "Word Bearers",
+                "description": "The heralds of the Emperor, faith is the best weapon",
+                "number": "XVII",
+                "primarch": "Lorgar Aurelian",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350803/40k/wordbearers_hsbwwd.png",
+                "__v": 0
+            },
+            {
+                "_id": "61e44a6521f6ace999c1f086",
+                "name": "Alpha Legion",
+                "description": "Information is power, you don't even know what is real",
+                "number": "XX",
+                "primarch": "Alpharius Omegon",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350723/40k/alpha_nccyaf.jpg",
+                "__v": 0
+            }
+        ],
+        "loyalistlegions": [
+            {
+                "_id": "61e44a6521f6ace999c1f07c",
+                "name": "Iron Hands",
+                "description": "The flesh is weak",
+                "number": "X",
+                "primarch": "Ferrus Manus",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350766/40k/manosdehierro_h9fevn.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "61e44a6521f6ace999c1f084",
+                "name": "Salamanders",
+                "description": "Purge them with fire",
+                "number": "XVIII",
+                "primarch": "Vulkan",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350782/40k/salamandras_e1o8kb.jpg",
+                "__v": 0
+            },
+            {
+                "_id": "61e44a6521f6ace999c1f085",
+                "name": "Raven Guard",
+                "description": "Attack from the dark",
+                "number": "XIX",
+                "primarch": "Corvus Corax",
+                "img": "https://res.cloudinary.com/dx7cfdbfa/image/upload/v1642350778/40k/ravenguard_pgjuwm.jpg",
+                "__v": 0
+            }
+        ],
+        "victory": "Traitor Legions",
+        "__v": 0
+    
+    }
+]
+}
